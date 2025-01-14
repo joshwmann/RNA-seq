@@ -3,6 +3,7 @@ BiocManager::install()
 
 #RUN THROUGH CLUSTERING
 #Testing
+#Testing2
 #two waysto install apckages in R for bioinformatics
 
 #1 Load Data
